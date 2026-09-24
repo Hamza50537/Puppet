@@ -1,5 +1,5 @@
 
-package { 'install cowsay on ubuntu':
+package { 'install cowsay on rhel':
   ensure => 'latest',
   name   => 'cowsay',
 }
